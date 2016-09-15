@@ -1,0 +1,6 @@
+# Template to quick start new project with gulp JS
+___
+## How to use
+1. Clone repository
+2. Install package (npm i)
+3. Run gulp
